@@ -7,4 +7,4 @@ Getting Started with TensorFlow 2.0 by 박해선님: http://bit.ly/getting-start
 TensorFlow.js example
 
 - http://bit.ly/pose-net
-- http://bit.ly/body-fix
+- http://bit.ly/body-pix
